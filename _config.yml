@@ -21,7 +21,7 @@ description: "Personal website of Mrinal Purohit with details of projects, publi
 source_link: "https://github.com/iammrinal0/iammrinal0.github.io"
 favicon:     "img/favicon.ico"   #put a path like: "img/favicon.ico"
 touch_icon:  "img/favicon.ico" #put a path like: "img/apple-touch-icon.png"
-google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
+google_analytics_key: "UA-64263019-1" ## put YOUR key here to enable tracking! (blank to disable)
 
 
 ### template colors, used site-wide via css ###
